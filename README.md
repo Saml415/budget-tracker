@@ -1,5 +1,6 @@
-# Budget-Tracker
 
+# Budget-Tracker
+![Capture](https://user-images.githubusercontent.com/81829274/129492416-928f95ee-dd05-431c-8ebe-6c5ee1851054.PNG)
 ## Table of Contents
 
 - [Descritpion](#description)
