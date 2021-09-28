@@ -13,7 +13,7 @@
 
 ## Description
 
-This is the repository for an app that allows users to maintain a budget and add and subtract funds to their accounts when desire. The app can be used both online and offline due to all necessary files being cached. Regardless if the user is online or offline the users transactions will be updated continuously.
+This app can be used to help users keep track of their finances. When a user inputs an amount of money they will be given a visual representation of their spending habits. That way they can spend their money accordingly. In addition the app also works as a PWA so the user can dowload the app on their phone and use it without a connection to the internet. This can make the app ideal for when traveling abroad.
 
 ## Installation Guide
 
